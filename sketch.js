@@ -8,7 +8,7 @@ function setup() {
   weight=random(400,1500)
 
 
-  createCanvas(800,400);
+  createCanvas(800,800);
   car=createSprite(50,200,50,50)
 
 
